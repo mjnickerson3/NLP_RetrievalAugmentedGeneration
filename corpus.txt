@@ -1,0 +1,31 @@
+Quality assurance is an important part of software development. QA teams verify that applications meet business
+requirements and function correctly before release. Testing helps identify defects early and reduces production issues.
+
+Manual testing involves executing test cases step by step and documenting the results.
+It is useful for exploratory testing and validating user experiences. However, manual testing can be
+very time consuming when the same tests are repeated across multiple releases.
+
+Test automation helps reduce repetitive work by executing test scripts automatically.
+Automated tests can run quickly and consistently across different environments. Automation is commonly used for
+regression testing.
+
+Playwright is an open-source test automation framework developed by Microsoft. It supports Chromium, Firefox, and WebKit
+browsers. Playwright is known for reliable locators and built-in waiting mechanisms.
+
+Regression testing is performed after code changes are introduced. The purpose is to ensure that existing functionality
+still works as expected. Automated regression tests help teams release software with greater confidence.
+
+Test cases should include clear steps, expected results, and required preconditions. Well-written test cases improve
+communication between testers, developers, and business analysts.
+
+AI-powered testing tools are becoming more common in software development. These tools can assist with test case
+generation,defect analysis, and automation creation.
+
+AI agents can perform multiple tasks during a workflow. For example, an AI agent might review a manual test case,
+generate Playwright automation code, apply naming conventions, and create a pull request for review.
+
+Pull requests allow developers and testers to review code before it is merged. Code reviews help maintain quality
+standards and ensure consistency across projects.
+
+A successful testing strategy combines human expertise and automation. While AI can help generate automation and
+identify patterns, human review is still necessary to validate business requirements and software quality.
